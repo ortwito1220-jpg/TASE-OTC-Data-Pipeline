@@ -33,7 +33,7 @@ jobs:
         env:
           # משיכת הסוד מהכספת לתוך השרת
           TASE_API_KEY: ${{ secrets.TASE_API_KEY }}
-        run: python Fetch_OTC.py
+        run: python "Fetch_OTC - Automate.py"
 
       - name: Commit and Push new JSON
         run: |
