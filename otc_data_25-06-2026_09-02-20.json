@@ -1,0 +1,42 @@
+{
+    "OTCTransactionOnline": {
+        "result": [
+            {
+                "tradeDate": "2026-06-25T10:15:10.270",
+                "securityId": 1178862,
+                "securityName": "ג'נגו",
+                "volume": 90367,
+                "rate": 303
+            },
+            {
+                "tradeDate": "2026-06-25T10:45:46.723",
+                "securityId": 1097278,
+                "securityName": "אמות",
+                "volume": 10477,
+                "rate": 1847.6659
+            },
+            {
+                "tradeDate": "2026-06-25T10:53:27.240",
+                "securityId": 566018,
+                "securityName": "מנורה מב החז",
+                "volume": 450000,
+                "rate": 45330
+            },
+            {
+                "tradeDate": "2026-06-25T11:17:40.960",
+                "securityId": 1082379,
+                "securityName": "טאואר",
+                "volume": 380,
+                "rate": 85075.5157
+            },
+            {
+                "tradeDate": "2026-06-25T11:19:46.103",
+                "securityId": 1211614,
+                "securityName": "נאוי    נעמ 8-ל",
+                "volume": 4500000,
+                "rate": 103.3969
+            }
+        ],
+        "total": 5
+    }
+}
