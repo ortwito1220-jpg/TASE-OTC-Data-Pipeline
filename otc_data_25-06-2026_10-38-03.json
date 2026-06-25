@@ -1,0 +1,91 @@
+{
+    "OTCTransactionOnline": {
+        "result": [
+            {
+                "tradeDate": "2026-06-25T12:35:19.840",
+                "securityId": 691212,
+                "securityName": "דיסקונט       א",
+                "volume": 19485000,
+                "rate": 2874
+            },
+            {
+                "tradeDate": "2026-06-25T12:36:51.383",
+                "securityId": 695437,
+                "securityName": "מזרחי טפחות",
+                "volume": 2711000,
+                "rate": 19550
+            },
+            {
+                "tradeDate": "2026-06-25T12:39:55.080",
+                "securityId": 1159029,
+                "securityName": "הבורסה לניע בתא",
+                "volume": 2271708,
+                "rate": 12800
+            },
+            {
+                "tradeDate": "2026-06-25T12:39:55.100",
+                "securityId": 612010,
+                "securityName": "הכשרת הישוב",
+                "volume": 9186,
+                "rate": 3556
+            },
+            {
+                "tradeDate": "2026-06-25T12:39:55.130",
+                "securityId": 629014,
+                "securityName": "טבע",
+                "volume": 6,
+                "rate": 9432
+            },
+            {
+                "tradeDate": "2026-06-25T12:39:55.150",
+                "securityId": 1119478,
+                "securityName": "עזריאלי קבוצה",
+                "volume": 1956,
+                "rate": 40630
+            },
+            {
+                "tradeDate": "2026-06-25T12:39:55.173",
+                "securityId": 629014,
+                "securityName": "טבע",
+                "volume": 4,
+                "rate": 9432
+            },
+            {
+                "tradeDate": "2026-06-25T12:39:55.200",
+                "securityId": 1097278,
+                "securityName": "אמות",
+                "volume": 1525,
+                "rate": 1858
+            },
+            {
+                "tradeDate": "2026-06-25T12:39:55.267",
+                "securityId": 323014,
+                "securityName": "מליסרון",
+                "volume": 323,
+                "rate": 41010
+            },
+            {
+                "tradeDate": "2026-06-25T13:04:59.177",
+                "securityId": 1169689,
+                "securityName": "ג'נסל",
+                "volume": 23183947,
+                "rate": 116.9
+            },
+            {
+                "tradeDate": "2026-06-25T13:15:42.060",
+                "securityId": 1139864,
+                "securityName": "רציו פטרול  יהש",
+                "volume": 539792,
+                "rate": 39.549
+            },
+            {
+                "tradeDate": "2026-06-25T13:24:43.263",
+                "securityId": 739037,
+                "securityName": "אלקטרה",
+                "volume": 5000,
+                "rate": 11700
+            }
+        ],
+        "total": 12
+    }
+}
