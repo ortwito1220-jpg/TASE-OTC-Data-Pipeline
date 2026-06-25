@@ -20,8 +20,15 @@ def fetch_and_save_otc_data():
     
     transactions_endpoint = f"{BASE_URL}/v1/transactions/otc-transactions-online"
     
+    # הגדרת פרמטרי הזמן שגילינו לכיסוי כל יום המסחר
+    params = {
+        "fromTime": "09:00:00",
+        "toTime": "17:30:00"
+    }
+    
     try:
-        response = requests.get(transactions_endpoint, headers=HEADERS)
+        # הוספת משתנה ה-params לבקשת ה-GET
+        response = requests.get(transactions_endpoint, headers=HEADERS, params=params)
         
         if response.status_code == 200:
             data = response.json()
