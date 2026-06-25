@@ -1,0 +1,329 @@
+{
+    "OTCTransactionOnline": {
+        "result": [
+            {
+                "tradeDate": "2026-06-25T10:15:10.270",
+                "securityId": 1178862,
+                "securityName": "ג'נגו",
+                "volume": 90367,
+                "rate": 303
+            },
+            {
+                "tradeDate": "2026-06-25T10:45:46.723",
+                "securityId": 1097278,
+                "securityName": "אמות",
+                "volume": 10477,
+                "rate": 1847.6659
+            },
+            {
+                "tradeDate": "2026-06-25T10:53:27.240",
+                "securityId": 566018,
+                "securityName": "מנורה מב החז",
+                "volume": 450000,
+                "rate": 45330
+            },
+            {
+                "tradeDate": "2026-06-25T11:17:40.960",
+                "securityId": 1082379,
+                "securityName": "טאואר",
+                "volume": 380,
+                "rate": 85075.5157
+            },
+            {
+                "tradeDate": "2026-06-25T11:19:46.103",
+                "securityId": 1211614,
+                "securityName": "נאוי    נעמ 8-ל",
+                "volume": 4500000,
+                "rate": 103.3969
+            },
+            {
+                "tradeDate": "2026-06-25T12:35:19.840",
+                "securityId": 691212,
+                "securityName": "דיסקונט       א",
+                "volume": 19485000,
+                "rate": 2874
+            },
+            {
+                "tradeDate": "2026-06-25T12:36:51.383",
+                "securityId": 695437,
+                "securityName": "מזרחי טפחות",
+                "volume": 2711000,
+                "rate": 19550
+            },
+            {
+                "tradeDate": "2026-06-25T12:39:55.080",
+                "securityId": 1159029,
+                "securityName": "הבורסה לניע בתא",
+                "volume": 2271708,
+                "rate": 12800
+            },
+            {
+                "tradeDate": "2026-06-25T12:39:55.100",
+                "securityId": 612010,
+                "securityName": "הכשרת הישוב",
+                "volume": 9186,
+                "rate": 3556
+            },
+            {
+                "tradeDate": "2026-06-25T12:39:55.130",
+                "securityId": 629014,
+                "securityName": "טבע",
+                "volume": 6,
+                "rate": 9432
+            },
+            {
+                "tradeDate": "2026-06-25T12:39:55.150",
+                "securityId": 1119478,
+                "securityName": "עזריאלי קבוצה",
+                "volume": 1956,
+                "rate": 40630
+            },
+            {
+                "tradeDate": "2026-06-25T12:39:55.173",
+                "securityId": 629014,
+                "securityName": "טבע",
+                "volume": 4,
+                "rate": 9432
+            },
+            {
+                "tradeDate": "2026-06-25T12:39:55.200",
+                "securityId": 1097278,
+                "securityName": "אמות",
+                "volume": 1525,
+                "rate": 1858
+            },
+            {
+                "tradeDate": "2026-06-25T12:39:55.267",
+                "securityId": 323014,
+                "securityName": "מליסרון",
+                "volume": 323,
+                "rate": 41010
+            },
+            {
+                "tradeDate": "2026-06-25T13:04:59.177",
+                "securityId": 1169689,
+                "securityName": "ג'נסל",
+                "volume": 23183947,
+                "rate": 116.9
+            },
+            {
+                "tradeDate": "2026-06-25T13:15:42.060",
+                "securityId": 1139864,
+                "securityName": "רציו פטרול  יהש",
+                "volume": 539792,
+                "rate": 39.549
+            },
+            {
+                "tradeDate": "2026-06-25T13:24:43.263",
+                "securityId": 739037,
+                "securityName": "אלקטרה",
+                "volume": 5000,
+                "rate": 11700
+            },
+            {
+                "tradeDate": "2026-06-25T13:40:58.320",
+                "securityId": 1170513,
+                "securityName": "בלייד ריינג'ר",
+                "volume": 12219053,
+                "rate": 16
+            },
+            {
+                "tradeDate": "2026-06-25T13:43:44.293",
+                "securityId": 394015,
+                "securityName": "רציו      יהש",
+                "volume": 255688,
+                "rate": 433.6
+            },
+            {
+                "tradeDate": "2026-06-25T14:29:06.783",
+                "securityId": 1095835,
+                "securityName": "ארפורט סיטי",
+                "volume": 201928,
+                "rate": 5230.6753
+            },
+            {
+                "tradeDate": "2026-06-25T14:51:52.103",
+                "securityId": 1100007,
+                "securityName": "פז אנרגיה",
+                "volume": 158,
+                "rate": 81070
+            },
+            {
+                "tradeDate": "2026-06-25T14:51:52.250",
+                "securityId": 1100007,
+                "securityName": "פז אנרגיה",
+                "volume": 371,
+                "rate": 81070
+            },
+            {
+                "tradeDate": "2026-06-25T15:00:51.973",
+                "securityId": 1203579,
+                "securityName": "ממשל שקלית 0927",
+                "volume": 287000,
+                "rate": 103.4
+            },
+            {
+                "tradeDate": "2026-06-25T15:00:52.237",
+                "securityId": 1203579,
+                "securityName": "ממשל שקלית 0927",
+                "volume": 483000,
+                "rate": 103.38
+            },
+            {
+                "tradeDate": "2026-06-25T15:00:52.650",
+                "securityId": 1233782,
+                "securityName": "ממשל שקלית 0731",
+                "volume": 71000,
+                "rate": 103.43
+            },
+            {
+                "tradeDate": "2026-06-25T15:00:52.770",
+                "securityId": 1125400,
+                "securityName": "ממשל שקלית 0142",
+                "volume": 58000,
+                "rate": 119.97
+            },
+            {
+                "tradeDate": "2026-06-25T15:10:47.240",
+                "securityId": 739037,
+                "securityName": "אלקטרה",
+                "volume": 5000,
+                "rate": 11708.775
+            },
+            {
+                "tradeDate": "2026-06-25T15:16:48.370",
+                "securityId": 1160985,
+                "securityName": "ממשל שקלית 0330",
+                "volume": 10000000,
+                "rate": 92.21
+            },
+            {
+                "tradeDate": "2026-06-25T15:17:18.680",
+                "securityId": 1140193,
+                "securityName": "ממשל שקלית 0347",
+                "volume": 6000000,
+                "rate": 96.2539
+            },
+            {
+                "tradeDate": "2026-06-25T15:17:18.707",
+                "securityId": 1166180,
+                "securityName": "ממשל שקלית 0537",
+                "volume": 124000000,
+                "rate": 80.2785
+            },
+            {
+                "tradeDate": "2026-06-25T15:17:18.730",
+                "securityId": 1180660,
+                "securityName": "ממשל שקלית 0432",
+                "volume": 66000000,
+                "rate": 89.13
+            },
+            {
+                "tradeDate": "2026-06-25T15:19:29.400",
+                "securityId": 1202332,
+                "securityName": "ממשל שקלית 0335",
+                "volume": 106000,
+                "rate": 103.72
+            },
+            {
+                "tradeDate": "2026-06-25T15:19:51.440",
+                "securityId": 1194802,
+                "securityName": "ממשל שקלית 0229",
+                "volume": 350000000,
+                "rate": 102.37
+            },
+            {
+                "tradeDate": "2026-06-25T15:19:51.483",
+                "securityId": 1194802,
+                "securityName": "ממשל שקלית 0229",
+                "volume": 350000000,
+                "rate": 102.38
+            },
+            {
+                "tradeDate": "2026-06-25T15:21:01.700",
+                "securityId": 1194638,
+                "securityName": "מליסרון  אגח כא",
+                "volume": 1084503,
+                "rate": 115.2223
+            },
+            {
+                "tradeDate": "2026-06-25T15:21:01.743",
+                "securityId": 1104363,
+                "securityName": "ברק בית השקעות",
+                "volume": 2750,
+                "rate": 3750
+            },
+            {
+                "tradeDate": "2026-06-25T15:23:21.867",
+                "securityId": 1203579,
+                "securityName": "ממשל שקלית 0927",
+                "volume": 35000000,
+                "rate": 103.32
+            },
+            {
+                "tradeDate": "2026-06-25T15:28:49.920",
+                "securityId": 281014,
+                "securityName": "איי.סי.אל",
+                "volume": 133000,
+                "rate": 1510.866
+            },
+            {
+                "tradeDate": "2026-06-25T15:35:35.187",
+                "securityId": 1203579,
+                "securityName": "ממשל שקלית 0927",
+                "volume": 483000,
+                "rate": 103.3799
+            },
+            {
+                "tradeDate": "2026-06-25T15:35:35.367",
+                "securityId": 1203579,
+                "securityName": "ממשל שקלית 0927",
+                "volume": 287000,
+                "rate": 103.4
+            },
+            {
+                "tradeDate": "2026-06-25T15:35:35.677",
+                "securityId": 1125400,
+                "securityName": "ממשל שקלית 0142",
+                "volume": 58000,
+                "rate": 119.969
+            },
+            {
+                "tradeDate": "2026-06-25T15:35:35.893",
+                "securityId": 1233782,
+                "securityName": "ממשל שקלית 0731",
+                "volume": 71000,
+                "rate": 103.4296
+            },
+            {
+                "tradeDate": "2026-06-25T15:52:03.040",
+                "securityId": 730010,
+                "securityName": "צור",
+                "volume": 279330,
+                "rate": 1074
+            },
+            {
+                "tradeDate": "2026-06-25T16:02:34.997",
+                "securityId": 730010,
+                "securityName": "צור",
+                "volume": 44495,
+                "rate": 1074
+            },
+            {
+                "tradeDate": "2026-06-25T16:16:56.770",
+                "securityId": 1176593,
+                "securityName": "נקסט ויז'ן",
+                "volume": 20000,
+                "rate": 25162.374
+            },
+            {
+                "tradeDate": "2026-06-25T16:23:22.703",
+                "securityId": 1220722,
+                "securityName": "ממשל צמודה 0431",
+                "volume": 15000000,
+                "rate": 110.07
+            }
+        ],
+        "total": 46
+    }
+}
